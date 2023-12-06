@@ -2,9 +2,9 @@
 
 namespace Sou\TextMailViewer;
 
+use Sou\TextMailViewer\Commands\TextMailViewerCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Sou\TextMailViewer\Commands\TextMailViewerCommand;
 
 class TextMailViewerServiceProvider extends PackageServiceProvider
 {
