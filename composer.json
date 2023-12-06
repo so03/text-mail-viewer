@@ -1,16 +1,15 @@
 {
-    "name": "so/text-mail-viewer",
+    "name": "so03/text-mail-viewer",
     "description": "This is my package text-mail-viewer",
     "keywords": [
-        "sou",
         "laravel",
         "text-mail-viewer"
     ],
-    "homepage": "https://github.com/so/text-mail-viewer",
+    "homepage": "https://github.com/so03/text-mail-viewer",
     "license": "MIT",
     "authors": [
         {
-            "name": "sou",
+            "name": "so03",
             "email": "sasaki.sou@samurai-adways.net",
             "role": "Developer"
         }
