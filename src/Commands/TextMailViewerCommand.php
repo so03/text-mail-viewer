@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Sou\TextMailViewer\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class TextMailViewerCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'text-mail-viewer';
 
     public $description = 'My command';
 
