@@ -2,14 +2,12 @@
 
 namespace Sou\TextMailViewer;
 
-use Illuminate\Contracts\Renderable;
+use Illuminate\Contracts\Support\Renderable;
 
 class TextMailViewer
 {
     public function add(Renderable $mailable)
     {
-        $text = $mailable->render();
-
-        return $text;
+        return $mailable->render();
     }
 }
